@@ -3,7 +3,7 @@
 <!-- header: 높이 축소 & 색상 통일 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=header&fontColor=FFFFFF&theme=cobalt" alt="header"/>
 
-<h3>"열정을 실행력으로 바꾸는 개발자, <b>안정훈</b> 입니다."</h3>
+<h3>"꾸준한 탐구로 기본기를 다지고, 원리부터 견고하게 쌓아 올리는 개발자, <b>안정훈</b> 입니다."</h3>
 
 </div>
 
