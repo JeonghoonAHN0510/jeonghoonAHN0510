@@ -66,7 +66,7 @@
 - **서비스 확장성 및 안정성 확보** : 서브도메인 기반의 DB 접근 분리 설계를 통해 **서비스 안정성** 확보
 
 > 🔗 [GitHub 바로가기](https://github.com/JeonghoonAHN0510/K-Tour_Refactor)  
-> 🔗 [발표자료 보기](https://buly.kr/EduBQP2)
+> 🔗 [발표자료 보기](https://buly.kr/BeLJkTI)
 
 ---
 
@@ -75,7 +75,7 @@
 > **기술스택:** Spring Boot · JSP · WebSocket  
 > **역할:** **팀 리더(조장)** / 실시간 채팅 구현 / 서버 부하 분산
 
-**BestMeat**은 사용자가 여러 정육점의 가격과 정보를 <br/>
+**BestMeat**는 사용자가 여러 정육점의 가격과 정보를 <br/>
 **실시간 채팅**으로 비교하고 문의할 수 있는 비대면 중개 플랫폼입니다.
 
 **핵심 구현**
@@ -89,7 +89,7 @@
 - **팀 리더 역할 수행** : 팀장으로서 일정 관리, 팀원 간 업무 조정을 주도하여 프로젝트를 **성공적으로 완수**
 
 > 🔗 [GitHub 바로가기](https://github.com/jihoons1/2025_PJ3_4team_project)  
-> 🔗 [발표자료 보기](https://buly.kr/58TFp4K)
+> 🔗 [발표자료 보기](https://buly.kr/8Trg5mI)
 
 ---
 
