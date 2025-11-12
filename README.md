@@ -3,7 +3,7 @@
 <!-- header: 높이 축소 & 색상 통일 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=header&fontColor=FFFFFF&theme=cobalt" alt="header"/>
 
-<h3>"꾸준함으로 부족한 점을 극복해나가는 개발자, <b>안정훈</b> 입니다."</h3>
+<p>"꾸준함으로 부족한 점을 극복해나가는 개발자, <b>안정훈</b> 입니다."</p>
 
 </div>
 
