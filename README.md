@@ -45,7 +45,10 @@
 - **서버 안정성 확보** : 기능별 서버 분리 아키텍쳐 설계를 통한 서버 과부하 방지
 - **데이터 보안 강화** : 회원 권한별 접근 인가 설정을 통한 내부 데이터 보안 수준 향상
 
-> 🔗 [Notion 바로가기](https://www.notion.so/lceye/LC-Eye-2a2094d4983480369aa4fe1a6163688f?source=copy_link)  
+> 🔗 [Notion 바로가기](https://www.notion.so/lceye/LC-Eye-2a2094d4983480369aa4fe1a6163688f?source=copy_link) <br>
+> 🔗 단일 서버용 GitHub [GitHub 바로가기](https://github.com/JeonghoonAHN0510/LC-Eye) <br>
+> 🔗 다중 서버용 GitHub [Back_Member](https://github.com/JeonghoonAHN0510/LC-Eye_Member) &nbsp;|&nbsp; [Back_Project](https://github.com/JeonghoonAHN0510/LC-Eye_Project) &nbsp;|&nbsp; [React](https://github.com/JeonghoonAHN0510/LC-Eye_React) &nbsp;|&nbsp; [Flutter](https://github.com/msh-94/lc_eye_project) <br>
+> 🔗 [발표자료 보기 ··· 진행중]()
 ---
 
 # 🗺️ K-Tour 프로젝트
