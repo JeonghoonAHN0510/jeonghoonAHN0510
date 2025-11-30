@@ -95,7 +95,7 @@
 - **서버 안정성 확보** : CSV 로그 관리 및 배치 처리 도입을 통한 **안정적인 DB 성능** 유지
 - **팀 리더 역할 수행** : 팀장으로서 일정 관리, 팀원 간 업무 조정을 주도하여 프로젝트를 **성공적으로 완수**
 
-> 🔗 [GitHub 바로가기](https://github.com/jihoons1/2025_PJ3_4team_project)  
+> 🔗 [GitHub 바로가기](https://github.com/JeonghoonAHN0510/BestMeat)  
 > 🔗 [발표자료 보기](https://www.canva.com/design/DAGyvrI74l8/R4zFfgFRuoyg8b5lMNEMKA/view?utm_content=DAGyvrI74l8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8324c3e0d4)
 
 ---
