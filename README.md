@@ -73,7 +73,7 @@
 - **서비스 확장성 및 안정성 확보** : 서브도메인 기반의 DB 접근 분리 설계를 통해 **서비스 안정성** 확보
 
 > 🔗 [GitHub 바로가기](https://github.com/JeonghoonAHN0510/K-Tour_Refactor)  
-> 🔗 [발표자료 보기](https://buly.kr/BeLJkTI)
+> 🔗 [발표자료 보기](https://www.canva.com/design/DAG6JBF6rxc/uTe0uS2hz4cdFF_oa-D0Kw/view?utm_content=DAG6JBF6rxc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4904490cd9)
 
 ---
 
@@ -96,7 +96,7 @@
 - **팀 리더 역할 수행** : 팀장으로서 일정 관리, 팀원 간 업무 조정을 주도하여 프로젝트를 **성공적으로 완수**
 
 > 🔗 [GitHub 바로가기](https://github.com/jihoons1/2025_PJ3_4team_project)  
-> 🔗 [발표자료 보기](https://buly.kr/8Trg5mI)
+> 🔗 [발표자료 보기](https://www.canva.com/design/DAGyvrI74l8/R4zFfgFRuoyg8b5lMNEMKA/view?utm_content=DAGyvrI74l8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8324c3e0d4)
 
 ---
 
