@@ -9,47 +9,50 @@
 
 ---
 
-## 🛠️ Tech Stacks
-<div align="center">
+## 🛠️ Tech Stack & Skills
 
-<!-- 배지 크기와 여백 통일: for-the-badge 유지, 행·열 정리 -->
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=0A0A0A" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+### 💻 Languages 
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-</div>
+### 🖼️ Frameworks & Libraries
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
 ## 💡 LC-Eye 프로젝트
 > **기간:** 2025.11.05 ~ 2025.11.27 (3주)  
 > **기술스택:** Spring Boot · React · Flutter  
-> **역할:** 버전 관리 / 보안 아키텍쳐 설계 / 서버 부하 분산
+> **역할:** MSA 기반 기능별 서버 관리 / 서버 간 통신 / 버전 관리
 
 **LC-Eye**는 실무 LCI(Life Cycle Inventory) 계산과 표준 데이터 자동 매핑 기능을 제공하는 **경량형 LCI 시스템**입니다. <br />
-복잡한 LCI 계산 과정을 자동화하고 데이터 관리의 효율성을 높이는 것을 목표로 했습니다.
 
 **핵심 구현**
+- **데이터 격리 및 보안** : 멀티테넌시를 고려하여 기업별 데이터 독립성 확보 및 역할 기반 접근 제어 구현
 - **LCI 계산 알고리즘** : 단위 변환 로직을 포함한 제품 단위 LCI 계산 알고리즘 구현
 - **자동 매핑 시스템** : 표준 Flow 데이터와 텍스트 유사도(Text Similarity)를 활용하여 LCI 데이터 자동 매핑 시스템 구축
-- **데이터 격리 및 보안** : 멀티테넌시를 고려하여 기업별 데이터 독립성 확보 및 역할 기반 접근 제어 구현
 
 **성과**
-- **서버 안정성 확보** : 기능별 서버 분리 아키텍쳐 설계를 통한 서버 과부하 방지
-- **데이터 보안 강화** : 회원 권한별 접근 인가 설정을 통한 내부 데이터 보안 수준 향상
+- **서버 안정성 확보** : **MSA 기반** 기능별 서버 분리 아키텍쳐 설계를 통한 서버 과부하 방지
+- **데이터 정합성 유지** : **Redisson 분산 락**을 통한 데이터 정합성 유지
 
 > 🔗 [Notion 바로가기](https://www.notion.so/lceye/LC-Eye-2a2094d4983480369aa4fe1a6163688f?source=copy_link) <br>
 > 🔗 단일 서버용 GitHub [GitHub 바로가기](https://github.com/JeonghoonAHN0510/LC-Eye) <br>
-> 🔗 다중 서버용 GitHub [Back_Member](https://github.com/JeonghoonAHN0510/LC-Eye_Member) &nbsp;|&nbsp; [Back_Project](https://github.com/JeonghoonAHN0510/LC-Eye_Project) &nbsp;|&nbsp; [React](https://github.com/JeonghoonAHN0510/LC-Eye_React) &nbsp;|&nbsp; [Flutter](https://github.com/msh-94/lc_eye_project) <br>
-> 🔗 [발표자료 보기 ··· 진행중]()
+> 🔗 다중 서버용 GitHub [Back_Member](https://github.com/JeonghoonAHN0510/LC-Eye_Member) &nbsp;|&nbsp; [Back_Project](https://github.com/JeonghoonAHN0510/LC-Eye_Project) &nbsp;|&nbsp; [React](https://github.com/JeonghoonAHN0510/LC-Eye_React) &nbsp;|&nbsp; [Flutter](https://github.com/JeonghoonAHN0510/LC-Eye_Flutter) <br>
+> 🔗 [발표자료 보기](https://www.canva.com/design/DAG58qOb0VM/xtXFMxC0ldM6TCnAL3mVIw/view?utm_content=DAG58qOb0VM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h421dbf7d45) <br>
+> 💻 시연영상 [영상 바로보기](https://drive.google.com/file/d/1objnc56YuQeHpYGFZkyLe-8hU9B_7Fpt/view)
 ---
 
 # 🗺️ K-Tour 프로젝트
@@ -134,7 +137,7 @@
 ---
 
 ## 🧑‍💻 Contact
-<div align="center">
+<div>
 
 <a href="https://velog.io/@jeonghoonahn/posts">
   <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" />
